@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Pete',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -40,39 +40,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://mail.google.com',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Asset Tiger',
+      icon: 'tag',
+      link: 'https://www.myassettag.com/assettiger',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'End Point',
+      icon: 'box',
+      link: 'https://endpoint.microsoft.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Harmony Portal',
+      icon: 'compass',
+      link: 'https://my.harmonytx.org',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Help Desk',
+      icon: 'package',
+      link: 'https://harmonypu0d.cloud.invgate.net/dashboard',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Amazon',
+      icon: 'package',
+      link: 'https://www.amazon.com/',
     },
   ],
 
